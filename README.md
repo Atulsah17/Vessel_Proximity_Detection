@@ -27,7 +27,7 @@ Usage
 To run the vessel proximity detection algorithm, follow these steps:
 
 Clone the repository:
-git clone https://github.com/atulsah17/vessel-proximity-detection.git
+git clone https://github.com/Atulsah17/vessel-proximity-detection.git
 cd vessel-proximity-detection
 Place your dataset (sample_data.csv) in the root directory.
 
